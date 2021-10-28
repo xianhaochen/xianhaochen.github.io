@@ -1,0 +1,40 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Tianyue Zheng
+
+~~~
+{}{img_left}{photos/photo.jpg}{alt text}{204px}{239px} # 869 1019
+[https://tianyuez.github.io Tianyue Zheng (郑天越)] \n 
+Ph.D. candidate \n
+[https://www.ntu.edu.sg/scse School of Computer Science and Engineering] \n
+[https://www.ntu.edu.sg/ Nanyang Technological University] \n
+Address: Blk N4, \# B2a-01,  50 Nanyang Avenue, Singapore 639798 \n
+Tel: (+65) 87561083 \n
+Email: tianyue002@e.ntu.edu.sg \n
+\[[https://scholar.google.com/citations?user=A-YvDJgAAAAJ&hl=en Google Scholar]\]\[[https://www.researchgate.net/profile/Tianyue-Zheng-3 ResearchGate]\]\[[CV.pdf Curriculum Vitae]\] \n
+~~~
+
+== About Me
+I'm currently a third-year Ph.D. student at [https://www.ntu.edu.sg/ Nanyang Technological University], under the guidance of [https://personal.ntu.edu.sg/junluo/ Prof. Jun Luo]. I am currently working on building RF sensing systems to perceive and reveal insights of the physical world.
+
+== Education
+- Ph.D. in Computer Science, Nanyang Technological University, Aug. 2019 - Aug. 2023 (Expected)
+- M.Eng. in Computer Engineering, University of Toronto, Aug. 2017 - Aug. 2019
+- B.S. in Telecommunication Engineering, Harbin Institute of Technology, Aug. 2013 - Aug. 2017
+
+== Research Interests 
+- Mobile and pervasive computing
+- Wireless sensing
+- Internet of Things
+- Localization
+- Computer vision
+- Adversarial learning
+
+== Recent News
+- October 2021: I will present [MoRe-Fi] at [https://sensys.acm.org/2021/ *SenSys 2021*]!
+
+== Visitors
+~~~
+{}{raw}
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=vFV44LOxH_Dba4aakLGduorWhjEaY_cmEoIaa5lSO0Y"></script>
+~~~
+

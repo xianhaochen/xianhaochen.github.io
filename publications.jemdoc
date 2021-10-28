@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications 
+(* denotes co-first author.)
+=== Conference
+
+- [https://tianyuez.github.io MoRe-Fi: Motion-robust and Fine-grained Respiration Monitoring via Deep-Learning UWB Radar] \n
+(research full paper, acceptance rate: 25\/139 \[18\%\]) \n
+*Tianyue Zheng*, Zhe Chen, Shujie Zhang, Chao Cai, and Jun Luo \n 
+in /Proc. of the 19th ACM SenSys/, 2021, pp. 1–14.
+
+- [pubs/siwa.pdf SiWa: See into Walls via Deep UWB Radar] \n
+(research full paper, acceptance rate: 60\/300 \[20\%\]) \n
+*Tianyue Zheng*\*, Zhe Chen\*, Jun Luo, Lin Ke, Chaoyang Zhao, and Yaowen Yang\n
+in /Proc. of the 27th ACM MobiCom/, 2021, pp. 323–336.
+
+- [pubs/octopus.pdf Octopus: A Practical and Versatile Wideband MIMO Sensing Platform] \n
+(research full paper, acceptance rate: 60\/300 \[20\%\]) \n
+Zhe Chen\*, *Tianyue Zheng*\*, and Jun Luo \n
+in /Proc. of the 27th ACM MobiCom/, 2021, pp. 601–614.
+
+- [pubs/movifi.pdf MoVi-Fi: Motion-robust Vital Signs Waveform Recovery via Deep Interpreted RF Sensing] \n
+(research full paper, acceptance rate: 60\/300 \[20\%\]) \n
+Zhe Chen\*,*Tianyue Zheng*\*, Chao Cai, and Jun Luo \n
+in /Proc. of the 27th ACM MobiCom/, 2021, pp. 392–405.
+
+- [pubs/rfnet.pdf RF-Net: a Unified Meta-Learning Framework for RF-Enabled One-Shot Human Activity Recognition] \n
+(research full paper, acceptance rate: 43\/213 \[20\%\]) \n
+Shuya Ding, Zhe Chen, *Tianyue Zheng*, and Jun Luo\n
+in /Proc. of the 18th ACM SenSys/, pp. 517–530.
+
+- [pubs/v2ifi.pdf V2iFi: in-Vehicle Vital Sign Monitoring via Compact RF Sensing] \n
+*Tianyue Zheng*\*, Zhe Chen\*, Chao Cai, Jun Luo, and Xu Zhang \n
+in /Proc. of the 20th ACM UbiComp/, pp. 1-27.
+
+=== Journal
+
+- [pubs/har.pdf RF-Based Human Activity Recognition Using Signal Adapted Convolutional Neural Network] \n
+Zhe Chen, Chao Cai,*Tianyue Zheng*, Jun Luo, Jie Xiong, and Xin Wang \n
+IEEE Transactions on Mobile Computing, pp. 1–1, 2021.
+
+- [pubs/enhancing.pdf Enhancing RF Sensing with Deep Learning: A Layered Approach] \n
+*Tianyue Zheng*, Zhe Chen, Shuya Ding, and Jun Luo \n
+IEEE Communications Magazine, pp. 70–76, 2021.

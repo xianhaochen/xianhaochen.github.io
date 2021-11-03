@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f36a7086-26df-427b-b8f8-422a7e504821" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="35" column="519" selection-start-line="35" selection-start-column="519" selection-end-line="35" selection-end-column="519" />
+            <state relative-caret-position="251">
+              <caret line="35" column="132" selection-start-line="35" selection-start-column="132" selection-end-line="35" selection-end-column="132" />
             </state>
           </provider>
         </entry>
@@ -97,12 +95,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635919176355</updated>
-      <workItem from="1635919177461" duration="641000" />
+      <workItem from="1635919177461" duration="776000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="641000" />
+    <option name="totallyTimeSpent" value="776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1792" height="1038" extended-state="6" />
@@ -133,8 +131,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="35" column="519" selection-start-line="35" selection-start-column="519" selection-end-line="35" selection-end-column="519" />
+        <state relative-caret-position="251">
+          <caret line="35" column="132" selection-start-line="35" selection-start-column="132" selection-end-line="35" selection-end-column="132" />
         </state>
       </provider>
     </entry>

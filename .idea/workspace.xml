@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f36a7086-26df-427b-b8f8-422a7e504821" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="43" column="110" lean-forward="true" selection-start-line="43" selection-start-column="110" selection-end-line="43" selection-end-column="110" />
+            <state relative-caret-position="407">
+              <caret line="41" column="94" selection-start-line="41" selection-start-column="94" selection-end-line="41" selection-end-column="94" />
             </state>
           </provider>
         </entry>
@@ -27,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/publications.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+            <state relative-caret-position="-1532">
+              <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -53,17 +54,15 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="410" />
-    <option name="y" value="210" />
+    <option name="y" value="25" />
     <option name="width" value="1792" />
-    <option name="height" value="1037" />
+    <option name="height" value="1036" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -80,6 +79,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -112,15 +112,16 @@
       <option name="presentableId" value="Default" />
       <updated>1635919176355</updated>
       <workItem from="1635919177461" duration="6832000" />
-      <workItem from="1636373411780" duration="73000" />
+      <workItem from="1636373411780" duration="370000" />
+      <workItem from="1636738978554" duration="105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6905000" />
+    <option name="totallyTimeSpent" value="7307000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="410" y="210" width="1792" height="1037" extended-state="0" />
+    <frame x="0" y="25" width="1792" height="1036" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19424054" />
@@ -162,15 +163,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="43" column="110" lean-forward="true" selection-start-line="43" selection-start-column="110" selection-end-line="43" selection-end-column="110" />
+        <state relative-caret-position="407">
+          <caret line="41" column="94" selection-start-line="41" selection-start-column="94" selection-end-line="41" selection-end-column="94" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/publications.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        <state relative-caret-position="-1532">
+          <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
         </state>
       </provider>
     </entry>

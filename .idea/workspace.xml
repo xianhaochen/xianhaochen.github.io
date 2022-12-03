@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f36a7086-26df-427b-b8f8-422a7e504821" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,20 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
+            <state relative-caret-position="260">
               <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/publications.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2730">
-              <caret line="182" selection-start-line="182" selection-end-line="182" />
+            <state relative-caret-position="226">
+              <caret line="186" column="78" selection-start-line="186" selection-start-column="78" selection-end-line="186" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -48,15 +48,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/experiences.html" />
-        <option value="$PROJECT_DIR$/publications.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/publications.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="138" />
-    <option name="y" value="169" />
-    <option name="width" value="1499" />
+    <option name="x" value="2578" />
+    <option name="y" value="236" />
+    <option name="width" value="1400" />
     <option name="height" value="821" />
   </component>
   <component name="ProjectView">
@@ -133,18 +133,18 @@
       <workItem from="1667030102905" duration="1254000" />
       <workItem from="1668451641336" duration="439000" />
       <workItem from="1669962386599" duration="158000" />
-      <workItem from="1669995844410" duration="59000" />
+      <workItem from="1669995844410" duration="778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16980000" />
+    <option name="totallyTimeSpent" value="17699000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="138" y="169" width="1499" height="821" extended-state="0" />
+    <frame x="2578" y="236" width="1400" height="821" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23207037" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24873096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -183,15 +183,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
+        <state relative-caret-position="260">
           <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/publications.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2730">
-          <caret line="182" selection-start-line="182" selection-end-line="182" />
+        <state relative-caret-position="226">
+          <caret line="186" column="78" selection-start-line="186" selection-start-column="78" selection-end-line="186" selection-end-column="78" />
         </state>
       </provider>
     </entry>
